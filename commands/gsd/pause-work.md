@@ -26,6 +26,8 @@ Routes to the pause-work workflow which handles:
 
 <context>
 State and phase progress are gathered in-workflow with targeted reads.
+
+Wanted to keep the phase running while you step away, not stop it? Use `/gsd:remote-control` instead. See `docs/REMOTE-CONTROL.md` for the pause-vs-remote decision.
 </context>
 
 <process>

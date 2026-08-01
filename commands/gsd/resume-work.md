@@ -25,6 +25,10 @@ Routes to the resume-project workflow which handles:
 @~/.claude/get-shit-done/workflows/resume-project.md
 </execution_context>
 
+<context>
+Trying to reconnect to a session that's still running (not resuming from a handoff)? Use Claude Code Remote Control instead — see `/gsd:remote-control` and `docs/REMOTE-CONTROL.md`.
+</context>
+
 <process>
 Execute end-to-end.
 </process>
