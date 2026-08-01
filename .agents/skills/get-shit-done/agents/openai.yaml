@@ -1,0 +1,6 @@
+interface:
+  display_name: "Get Shit Done"
+  short_description: "Repo-specific patterns and workflows for get-shit-done"
+  default_prompt: "Use the get-shit-done repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
